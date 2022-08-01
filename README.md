@@ -12,9 +12,10 @@
 
 Writing everyday will help your learning. Using git everyday will save your career.
 
-For each week, make a new branch that you will base all of you commits to.
-Every day, make a commit about your progress.
-Every week, put up a Pull Request that will be reviewed by the senior developer you will be working with.
+- For each week, make a new branch that you will base all of you commits to.
+- Make a draft Pull request in order to track progress.
+- Every day, make a commit about your progress.
+- Every week, that Pull Request that will be reviewed by the senior developer you will be working with.
 
 ### Example Journal Entry Commit
 
